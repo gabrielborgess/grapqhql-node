@@ -1,0 +1,19 @@
+'''''
+
+query getSingleLibro($libroID:Int!){
+  libro(id:$libroID){
+    titulo
+    autor
+    tema
+    url
+  }
+}
+
+
+///QUERY VARIABLE
+
+{
+  "libroID": 1
+}
+
+'''''

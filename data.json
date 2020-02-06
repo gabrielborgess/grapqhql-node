@@ -1,0 +1,32 @@
+{
+    "libros":[
+        {
+            "id":1,
+            "titulo":"Harry Potter",
+            "autor":"JK Rowling",
+            "tema":"Fantasia",
+            "url":"http://harrypotter.com"
+        },
+        {
+            "id":2,
+            "titulo":"Señor de los anillos",
+            "autor":"J. R. R. Tolkien",
+            "tema":"Fantasia",
+            "url":"http://señoranillos.com"
+        },
+        {
+            "id":3,
+            "titulo":"IT",
+            "autor":"Stephen King",
+            "tema":"Terror",
+            "url":"http://stephenking.com"
+        },
+        {
+            "id":4,
+            "titulo":"Narnia",
+            "autor":"C. S. Lewis",
+            "tema":"Fantasia",
+            "url":"http://narnia.com"
+        } 
+    ]
+}
